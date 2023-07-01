@@ -1,4 +1,4 @@
-# basic-knowledge
+# Regex
 
 string regexPattern = @"^(?!.*\.{2})(?!.*[&=_'\-+,<>])(?!.*\.$)[a-zA-Z0-9][a-zA-Z0-9.]*[a-zA-Z0-9]$";
 
